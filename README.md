@@ -1,2 +1,2 @@
 # css643
-Homework
+Code samples for assignments
